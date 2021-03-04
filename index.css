@@ -1,0 +1,458 @@
+.Lorsen{
+    position: absolute;
+width: 107px;
+height: 48px;
+left: 57px;
+top: 26px;
+
+font-family: Rounded Mplus 1c Bold;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 45px;
+
+color: #000000;
+}
+.lpsum{
+    position: absolute;
+width: 99px;
+height: 46px;
+left: 59px;
+top: 65px;
+
+font-family: Rounded Mplus 1c Bold;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 45px;
+
+color: #000000;
+
+}
+.About{
+    position: absolute;
+width: 44px;
+height: 21px;
+left: 57px;
+top: 202px;
+
+font-family: Rounded Mplus 1c;
+font-style: normal;
+font-weight: 800;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.hr1{
+    position: absolute;
+width: 43px;
+height: 0px;
+left: 56px;
+top: 218px;
+
+border: 1px solid #FF4E4E;
+}
+.Services{
+    position: absolute;
+width: 60px;
+height: 21px;
+left: 57px;
+top: 261px;
+
+font-family: Rounded Mplus 1c;
+font-style: normal;
+font-weight: 800;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.Cuisine{
+    position: absolute;
+width: 52px;
+height: 21px;
+left: 57px;
+top: 320px;
+
+font-family: Rounded Mplus 1c;
+font-style: normal;
+font-weight: 800;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000
+}
+.Gallery{
+    position: absolute;
+width: 51px;
+height: 21px;
+left: 57px;
+top: 379px;
+
+font-family: Rounded Mplus 1c;
+font-style: normal;
+font-weight: 800;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.Contact{
+    position: absolute;
+width: 58px;
+height: 21px;
+left: 57px;
+top: 438px;
+
+font-family: Rounded Mplus 1c;
+font-style: normal;
+font-weight: 800;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.Book{
+    position: absolute;
+width: 35px;
+height: 21px;
+left: 57px;
+top: 497px;
+
+font-family: Rounded Mplus 1c;
+font-style: normal;
+font-weight: 800;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.text1{
+    position: absolute;
+width: 629px;
+height: 94px;
+left: 240px;
+top: 60px;
+
+font-family: Donegal One;
+font-style: normal;
+font-weight: normal;
+font-size: 70px;
+line-height: 87px;
+
+color: #000000;
+
+}
+.text2{
+    position: absolute;
+width: 691px;
+height: 108px;
+left: 240px;
+top: 150px;
+font-family: Donegal One;
+font-style: normal;
+font-weight: normal;
+font-size: 70px;
+line-height: 87px;
+
+color: #000000;
+
+}
+.text3{
+    position: absolute;
+width: 254px;
+height: 119px;
+left: 949px;
+top: 89px;
+
+font-family: Rosarivo;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+
+color: #000000;
+
+}
+.rectangle1{
+    position: absolute;
+width: 179px;
+height: 226px;
+left: 207px;
+top: 360px;
+
+background: #FFFFFF;
+border-radius: 30px
+}
+.rectangle2{
+    position: absolute;
+width: 179px;
+height: 226px;
+left: 424px;
+top: 360px;
+
+background: #FFFFFF;
+border-radius: 30px;
+}
+.rectangle3{
+    position: absolute;
+width: 179px;
+height: 226px;
+left: 641px;
+top: 360px;
+
+background: #FFFFFF;
+border-radius: 30px;
+}
+.rectangle4{
+    position: absolute;
+width: 179px;
+height: 226px;
+left: 858px;
+top: 360px;
+
+background: #FFFFFF;
+border-radius: 30px;
+}
+.rectangle5{
+    position: absolute;
+width: 179px;
+height: 226px;
+left: 1084px;
+top: 360px;
+
+background: #FFFFFF;
+border-radius: 30px;
+}
+.img1{
+    position: absolute;
+width: 157px;
+height: 157px;
+left: 218px;
+top: 375px;
+border-radius: 50%;
+}
+.img2{
+    position: absolute;
+width: 157px;
+height: 157px;
+left: 435px;
+top: 375px;
+border-radius: 50%;
+}
+.img3{
+    position: absolute;
+width: 157px;
+height: 157px;
+left: 652px;
+top: 375px;
+border-radius: 50%;
+}
+.img4{
+    position: absolute;
+width: 157px;
+height: 157px;
+left: 869px;
+top: 375px;
+border-radius: 50%;
+}
+.img5{position: absolute;
+    width: 157px;
+    height: 157px;
+    left: 1097px;
+    top: 374px;
+    border-radius: 50%;
+
+}
+.text3{
+    position: absolute;
+width: 116px;
+height: 54px;
+left: 238px;
+top: 540px;
+
+font-family: Rounded Mplus 1c Bold;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 27px;
+
+color: #000000;
+}
+.text4{
+    position: absolute;
+width: 156px;
+height: 36px;
+left: 445px;
+top: 540px;
+
+font-family: Rounded Mplus 1c Bold;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 27px;
+
+color: #000000;
+
+
+}
+.text5{
+    position: absolute;
+width: 208px;
+height: 37px;
+left: 662px;
+top: 538px;
+
+font-family: Rounded Mplus 1c Bold;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 27px;
+
+color: #000000;
+
+
+}
+.text6{
+    position: absolute;
+width: 210px;
+height: 41px;
+left: 879px;
+top: 539px;
+
+font-family: Rounded Mplus 1c Bold;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 27px;
+
+color: #000000;
+
+}
+.text7{
+    position: absolute;
+width: 178px;
+height: 33px;
+left: 1107px;
+top: 537px;
+
+font-family: Rounded Mplus 1c Bold;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 27px;
+
+color: #000000;
+}
+.text8{
+    position: absolute;
+    width: 266px;
+    height: 19px;
+    left: 910px;
+    top: 99px;
+    
+    font-family: Rosarivo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    
+    color: #000000
+}
+.text9{
+    position: absolute;
+    width: 226px;
+    height: 25px;
+    left: 910px;
+    top: 118px;
+    
+    font-family: Rosarivo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    
+    color: #000000;
+    
+}
+.text10{
+    position: absolute;
+    width: 200px;
+    height: 25px;
+    left: 910px;
+    top: 143px;
+    
+    font-family: Rosarivo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    
+    color: #000000;
+    
+}
+.text11{
+    position: absolute;
+    width: 194px;
+    height: 25px;
+    left: 910px;
+    top: 168px;
+    
+    font-family: Rosarivo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    
+    color: #000000;
+    
+}
+.hr2{
+    position: absolute;
+width: 84px;
+height: 0px;
+left: 949px;
+top: 208px;
+
+border: 2px solid #FA1919;
+}
+.redbutton{
+    position: absolute;
+width: 169px;
+height: 65px;
+left: 46px;
+top: 594px;
+border-radius: 30px;
+color: #FFFFFF;
+background-color: #FA1919;
+}
+.text12{
+    position: absolute;
+width: 45px;
+height: 23px;
+left: 108px;
+top: 595px;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+}
